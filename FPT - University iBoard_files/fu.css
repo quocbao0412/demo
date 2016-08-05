@@ -1,0 +1,127 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* Default Module */
+#fu-content 
+{
+    background-color: #FFFFFF;
+
+}
+#fu-content h4{
+	background: #F9FBFA;
+	
+	margin: 0 0 15px;
+	padding-top: 5px;
+}
+#fu-content div.cat-title{
+	background: #F9FBFA;
+	background-image:url(../images/bg_cat.gif);
+	font-size:16px;
+	font-weight:bold;
+	color:#FFF;
+	border-bottom:1px solid #DDDDDD;
+	padding-top: 5px;
+        
+}
+#fu-content div.moduletable,
+#fu-content div.moduletable_text,
+#fu-content div.moduletable_menu {
+	background:#FFF;
+	border: 1px solid #DDDDDD;
+	margin: 0 0 15px;
+	padding-left:0px;
+	padding-right:5px;
+}
+
+#fu-content div.table_article
+{
+	background:#FFFFFF;
+	border: 1px solid #DDDDDD;
+	margin: 0 0 15px;
+	padding-left:10px;
+	padding-right:5px;
+    font-size: 13px;
+}
+#fu-content div.table_article a, 
+#fu-content div.table_article a:link, 
+#fu-content div.table_article a:visited
+{
+	color:#09F;	
+}
+#fu-content .title-cate
+{
+	font-family:Tahoma, arial, Times, serif;
+	background-color:FFF;
+	font-size:14px;
+	
+}
+#fu-content div.moduletable h3,
+#fu-content div.moduletable_menu h4 {
+	background:#E9E9E9;
+	color: #FFFFFF;
+	margin: 0 -1px;
+	padding: 5px;
+	border-bottom: 1px solid #222222;
+    -border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+}
+
+#fu-content div.moduletable_highlight {
+	background: #F6F6F6;
+	border: 1px solid #DDDDDD;
+	margin: 0 0 15px;
+}
+
+#fu-content div.moduletable_highlight h3 {
+	background:#6EB9E0;
+	color: #FFFFFF;
+	margin: 0 -1px;
+	padding: 5px;
+}
+
+#fu-content div.ja-innerdiv {
+	border: none;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+#fu-content div.moduletable div.ja-innerdiv img,
+#fu-content div.moduletable_highlight div.ja-innerdiv img,
+#fu-content div.moduletable_text div.ja-innerdiv img{
+	border: none;
+}
+
+#fu-content div.moduletable_menu {
+	padding-bottom: 0;
+}
+#fu-content hr.content {
+	width:90%;
+	float:left;
+	padding:5px;
+}
+
+#fu-content li.a { 
+	float:left;
+	font-size:13px;
+	display:inline;
+	padding-left=5px;
+	list-style-position:inside;
+	list-style-type:circle;
+	line-height:110%;
+	
+}
+
+#fu-content moduletable li.articles-cat
+{
+		padding-left:10px;
+}
+
+ div.fucontenttable{
+
+	background: #F9FBFA;
+	border: 1px solid #DDDDDD;
+	margin: 0 0 15px;
+	padding-left:5px;
+	padding-right:5px;
+}
